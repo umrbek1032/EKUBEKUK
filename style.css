@@ -1,0 +1,15 @@
+body {
+  font-family: cursive;
+  font-size: xx-large;
+  text-align: center;
+}
+
+::selection,
+body {
+  background-color: #000;
+  color: #ffe4c4;
+}
+
+::-webkit-scrollbar-thumb {
+  display: none;
+}
